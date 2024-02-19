@@ -78,16 +78,16 @@ create table clientes
     email varchar(45) not null
 );
 insert into clientes (cpf, nome, nascimento, email) values
-	('50635607840', 'Carolina Beltrame', '2005-09-12', 'carolina.beltrame9@gmail.com'),
-    ('44380694836', 'Isabela Maria Leonardo', '2005-09-20', 'isabelamarialeonardo@gmail.com'),
-    ('40062107879', 'Otavio Macri', '2005-03-31', 'otaviomacri@gmail.com'),
-    ('48257377813', 'Gabriela Maria Paro', '2004-03-14', 'gabrielaparomaria@gmail.com'), 
-    ('32576203817', 'Luiz Alberto Lucchetta', '1985-06-15', 'luiz.lucchetta@gmail.com'),
-    ('44291545894', 'Gabriel Zerio Lopes', '2003-01-17', 'gabriel.zerio@gmail.com'),
-    ('54974057898', 'Guilherme Horta Nacci', '2005-03-02', 'guilherme.nacci@gmail.com'),
-	('49139218866', 'Levi Santana de Almeida','2002-02-22','levi.santana@gmail.com'),
-    ('11332496806', 'Francine Roseli Duarte Beltrame','1968-04-16','francine.roseli@gmail.com'),
-	('30964569832', 'Alexandre Garcia Aguado','1984-10-26','alexandre.aguado@ifsp.edu.br'),
+	('50735607840', 'Carolina Beltrame', '2005-09-12', 'carolina.beltrame9@gmail.com'),
+    ('44880694836', 'Isabela Maria Leonardo', '2005-09-20', 'isabelamarialeonardo@gmail.com'),
+    ('40762107879', 'Otavio Macri', '2005-03-31', 'otaviomacri@gmail.com'),
+    ('48857377813', 'Gabriela Maria Paro', '2004-03-14', 'gabrielaparomaria@gmail.com'), 
+    ('32596203817', 'Luiz Alberto Lucchetta', '1985-06-15', 'luiz.lucchetta@gmail.com'),
+    ('44271545894', 'Gabriel Zerio Lopes', '2003-01-17', 'gabriel.zerio@gmail.com'),
+    ('54984057898', 'Guilherme Horta Nacci', '2005-03-02', 'guilherme.nacci@gmail.com'),
+	('49179218866', 'Levi Santana de Almeida','2002-02-22','levi.santana@gmail.com'),
+    ('11392496806', 'Francine Roseli Duarte Beltrame','1968-04-16','francine.roseli@gmail.com'),
+	('30984569832', 'Alexandre Garcia Aguado','1984-10-26','alexandre.aguado@ifsp.edu.br'),
 	('12345678901', 'Ana Silva Souza','1985-05-15','ana.silvasouza@gmail.com'),
 	('23456789012', 'Carlos Oliveira Barretos','1990-09-20','carlos.oliveira@gmail.com'),
     ('34567890123', 'Amanda Pereira Xavier', '1988-03-10', 'amandapereira.xavier@gmail.com'),
@@ -97,7 +97,7 @@ insert into clientes (cpf, nome, nascimento, email) values
     ('78901234567', 'Mariana Pereira Costa', '1987-04-30', 'mariana.costa@gmail.com'),
     ('89012345678', 'João Pereira', '1992-08-18', 'joao.pereira@gmail.com'),
     ('90123456789', 'Laura Maria Oliveira', '1984-06-08', 'laura.oliveira@gmail.com'),
-    ('01234567890', 'Felipe Henrique Sampaio Santos', '1998-02-03', 'felipe.santos@gmail.com'),
+    ('71234567890', 'Felipe Henrique Sampaio Santos', '1998-02-03', 'felipe.santos@gmail.com'),
     ('67930799050', 'Ricardo Pereira', '1985-07-18', 'ricardo.pereira@gmail.com'),
     ('72467204057', 'Marina Santos da Silva', '1999-11-03', 'marina.santos@gmail.com');
 

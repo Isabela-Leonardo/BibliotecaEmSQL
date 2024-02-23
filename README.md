@@ -7,7 +7,7 @@ Para a definição da estrutura do banco de dados foram utilizadas declarações
 ## 📌 Índice
 - [Modelo Conceitual](#📂-modelo-conceitual)
 - [Modelo Lógico](#📂-modelo-lógico)
-- [Tecnologia Utilizada](#tecnologia-utilizada)
+- [Tecnologia e Ferramenta utilizadas](#tecnologia-e-ferramenta-utilizadas)
 - [Autores](#📝-autores)
 
 
@@ -19,8 +19,8 @@ Para a definição da estrutura do banco de dados foram utilizadas declarações
 ![Modelo Lógico](./assets/modeloLogico.png)
 
 
-## Tecnologia Utilizada
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" height="40" alt="SQL"/>
+## Tecnologia e Ferramenta utilizadas
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" width="40" alt="SQL"/>   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="60" alt="MySQL" />
 
 
 ## 📝 Autores
